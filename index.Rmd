@@ -28,20 +28,31 @@ library(rmdformats)
 #setwd("E:/ecofresca.web/fotos Ecofresca")
 ```
 
-# Hortensia
+# Producción
 
-Producción de flores en el Oriente de Antioquia
+Producción de hortensias y aguacate en el Oriente de Antioquia
 
-```{r , echo = FALSE, warning=FALSE, message=FALSE, out.width = "33%"}
+## Hortensia
+
+```{r , echo = FALSE, warning=FALSE, message=FALSE, out.width = "50%"}
 knitr::include_graphics(c("1662044973416.jpg"))
-
-
 
 ```
 
-["Ver más"](Presentación Ecofresca flowers S.A.S final.pdf)                     
+["Hortensias"](Presentación Ecofresca flowers S.A.S final.html)       
 
-# Consultora
+## Aguacate
+
+```{r , echo = FALSE, warning=FALSE, message=FALSE, out.width = "50%"}
+knitr::include_graphics(c("IMG-20181216-WA0024.jpg"))
+
+```
+
+
+
+["Aguacate"](intro.html)
+
+# Consultoría
 
 
 ```{r , echo = FALSE, warning=FALSE, message=FALSE, out.width = "33%"}
@@ -51,16 +62,5 @@ knitr::include_graphics(c("IMG-20181216-WA0028.jpg"))
 ```
 
 ["Ver más"](intro.html) 
-
-# Aguacate
-
-
-```{r , echo = FALSE, warning=FALSE, message=FALSE, out.width = "33%"}
-knitr::include_graphics(c("IMG-20181216-WA0024.jpg"))
-
-
-```
-
-["Ver más"](intro.html)
 
 
